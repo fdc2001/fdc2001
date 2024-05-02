@@ -2,10 +2,9 @@
   <img src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="180em" width="25%" >
 </div>
 
-## Olá!
 
-- 📚 Formado em Programação
-- 💻 PHP (Laravel) e JavaScript
+## Welcome to my GitHub!
+I'm a versatile Fullstack developer proficient in Laravel framework, ReactJS, and React Native. Whether it's crafting robust back-end solutions with Laravel or building dynamic front-end interfaces with ReactJS and React Native, I'm passionate about creating seamless user experiences across web and mobile platforms. Explore my repositories to see my projects in action and feel free to reach out for collaboration or inquiries!
 
 <div align="center">
   <a href="https://github.com/fdc2001">
